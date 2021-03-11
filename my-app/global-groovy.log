@@ -1,0 +1,32 @@
+2021-03-11 17:57:15,057 INFO  [log] The no of Rows are 5
+2021-03-11 17:57:15,058 INFO  [log] The no of Columns are 3
+2021-03-11 17:57:15,076 INFO  [log] firstname
+2021-03-11 17:57:15,076 INFO  [log] lastname
+2021-03-11 17:57:15,078 INFO  [log] email
+2021-03-11 17:57:19,277 INFO  [log] The status: FINISHED
+2021-03-11 17:57:19,294 INFO  [log] The time taken: 3988 ms
+2021-03-11 17:57:19,322 INFO  [log] The Number of steps: 9
+2021-03-11 17:57:19,323 INFO  [log] Customer1
+2021-03-11 17:57:19,323 INFO  [log] flipkart
+2021-03-11 17:57:19,334 INFO  [log] Customer1@gmail.com
+2021-03-11 17:57:27,305 INFO  [log] The status: FINISHED
+2021-03-11 17:57:27,309 INFO  [log] The time taken: 7909 ms
+2021-03-11 17:57:27,316 INFO  [log] The Number of steps: 9
+2021-03-11 17:57:27,324 INFO  [log] Customer2
+2021-03-11 17:57:27,334 INFO  [log] amazon
+2021-03-11 17:57:27,337 INFO  [log] Customer2@gmail.com
+2021-03-11 17:57:31,084 INFO  [log] The status: FINISHED
+2021-03-11 17:57:31,087 INFO  [log] The time taken: 3672 ms
+2021-03-11 17:57:31,096 INFO  [log] The Number of steps: 9
+2021-03-11 17:57:31,098 INFO  [log] Customer3
+2021-03-11 17:57:31,107 INFO  [log] myntra
+2021-03-11 17:57:31,109 INFO  [log] Customer3@gmail.com
+2021-03-11 17:57:35,080 INFO  [log] The status: FINISHED
+2021-03-11 17:57:35,082 INFO  [log] The time taken: 3887 ms
+2021-03-11 17:57:35,087 INFO  [log] The Number of steps: 9
+2021-03-11 17:57:35,111 INFO  [log] 
+2021-03-11 17:57:35,111 INFO  [log] 
+2021-03-11 17:57:35,122 INFO  [log] 
+2021-03-11 17:57:38,118 INFO  [log] The status: FINISHED
+2021-03-11 17:57:38,119 INFO  [log] The time taken: 2959 ms
+2021-03-11 17:57:38,120 INFO  [log] The Number of steps: 9
